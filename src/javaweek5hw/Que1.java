@@ -14,7 +14,10 @@ public class Que1 {
         System.out.println("07912345678");
         System.out.print("Address     ");
         System.out.println("10 North Road");
-        System.out.println("            London AB1 2CD");
+        System.out.println("London AB1 2CD");
+        System.out.println("Vaibhavi");
+        System.out.println("prime testing");
+        System.out.println("selenium");
     }
 }
 
