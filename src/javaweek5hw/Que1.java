@@ -15,6 +15,7 @@ public class Que1 {
         System.out.print("Address     ");
         System.out.println("10 North Road");
         System.out.println("            London AB1 2CD");
+
     }
 }
 
