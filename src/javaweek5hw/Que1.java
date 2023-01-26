@@ -3,9 +3,9 @@ package javaweek5hw;
 public class Que1 {
     public static void main(String[] args) {
         System.out.print("Name        ");
-        System.out.println("Himesh");
+        System.out.println("Disha");
         System.out.print("Last Name   ");
-        System.out.println("Patel");
+        System.out.println("Bhavsar");
         System.out.print("DOB         ");
         System.out.println("01/01/1996");
         System.out.print("Email       ");
