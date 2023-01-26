@@ -7,7 +7,12 @@ public class GITPractice {
         System.out.println("");
         System.out.println("");
         System.out.println("");
-        System.out.println("Vaibhavi");
+        System.out.println("Hello");
         System.out.println("");
+
+        System.out.println("Prime testing");
+
+
+        System.out.println("prime testing");
     }
 }
